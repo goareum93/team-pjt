@@ -6,3 +6,10 @@
 ## A
 
 - `index.html` 생성
+
+
+
+## B
+
+- `about.html` 생성
+
